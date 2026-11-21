@@ -1,4 +1,4 @@
-# MEDILUX Backend
+# AMPI Backend
 
 FastAPI로 API 개발을 시작하기 위한 기본 프로젝트입니다. 서버 실행, 설정 관리, API 경로 분리, 응답 형식 정의, 기본 테스트를 포함합니다.
 
